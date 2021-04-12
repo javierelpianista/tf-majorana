@@ -8,7 +8,7 @@ This program requires the `mpmath` module to run
 
 # Usage
 ```
-usage: c0.py [-h] [-N N] [--digits DIG] [--print-frequency FREQ] [--output-file FILE]
+usage: tf_majorana.py [-h] [-N N] [--digits DIG] [--print-frequency FREQ] [--output-file FILE]
 
 optional arguments:
   -h, --help            show this help message and exit
