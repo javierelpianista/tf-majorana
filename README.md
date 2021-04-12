@@ -1,5 +1,7 @@
 # tf-majorana
 A simple Python program to compute the slope at origin of the Thomas-Fermi solution using the Majorana method as detailed in *Am. J. Phys.* **70** (2002) 852-856.
+[![DOI](https://zenodo.org/badge/357292083.svg)](https://zenodo.org/badge/latestdoi/357292083)
+
 
 # Requirements
 This program requires the `mpmath` module to run
