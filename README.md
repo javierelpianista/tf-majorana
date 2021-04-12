@@ -19,8 +19,10 @@ optional arguments:
 
 # Examples
 By default the program sums up to the first 5000 coefficients using 400 digits of precision, which is enough.
+Its output is contained in the file `results.dat`.
 The first 10000 digits can be summed up instead by using the following command:
 
 ```
 python tf_majorana.py -N 10000 --digits 1000 --output-file 10000_digits.dat
 ```
+
